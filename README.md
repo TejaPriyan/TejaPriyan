@@ -144,14 +144,7 @@ const tejaPriyan = {
 ### 🪖 AI-Driven Road Safety System
 Real-time computer vision system that performs **helmet detection** and **automatic number-plate recognition**, built to support road-safety enforcement through live object detection.
 
-**Repository:** _add your repo link here_
-
-</td>
-<td width="35%" valign="top">
-
-<img src="https://img.shields.io/badge/Python-306998?style=flat-square" alt="Python"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" alt="YOLO"/>
+**🔗 Repository:** [View on GitHub](https://github.com/TejaPriyan/AI-DRIVEN-ROAD-SAFETY-SYSTEM-HELMET-DETECTION-AND-NUMBERPLATERECOGNITION-USING-YOLOV8)
 <img src="https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square" alt="Computer Vision"/>
 
 </td>
