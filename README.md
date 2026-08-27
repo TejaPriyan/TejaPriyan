@@ -305,7 +305,7 @@ A **modern, interactive developer portfolio** showcasing my work, blending clean
 <a href="https://github.com/TejaPriyan" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/tejapriyan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
 </a>
 <a href="https://myself-tejapriyan.onrender.com/" target="_blank">
