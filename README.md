@@ -241,15 +241,15 @@ A **modern, interactive developer portfolio** showcasing my work, blending clean
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=TejaPriyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&rank_icon=github" width="100%" alt="Teja Priyan's GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=TejaPriyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&rank_icon=github" width="100%" alt="Teja Priyan's GitHub Stats"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaPriyan&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TejaPriyan&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=TejaPriyan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=TejaPriyan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaPriyan&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
 
