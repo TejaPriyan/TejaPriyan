@@ -251,7 +251,7 @@ A **modern, interactive developer portfolio** showcasing my work, blending clean
 
 <img src="https://streak-stats.demolab.com/?user=TejaPriyan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaPriyan&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejaPriyan&theme=tokyonight" width="95%" alt="Contribution Activity Graph"/>
 
 </div>
 
