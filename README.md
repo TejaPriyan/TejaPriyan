@@ -7,7 +7,7 @@
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=680&lines=Building+Intelligent+AI+%26+Computer+Vision+Systems;Creator+of+Tejapriyan-8B+Offline+AI+Model;Full-Stack+Architect+%7C+Modern+Interactive+Web;Crafting+Fast%2C+Engaging+%26+Scalable+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=Creator+of+Tejapriyan-8B+Offline+AI+Model;Computer+Vision+%26+YOLOv8+Detection+Pipelines;Full-Stack+Architect+%26+3D+Web+Developer;Minimalist+AI+Playground+%7C+Socket.io+Games+%26+Canvas" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -35,15 +35,15 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm a **Computer Science & Engineering graduate** specializing in **Artificial Intelligence, Computer Vision, and Full-Stack Engineering**. 
+I'm a **Computer Science & Engineering graduate** passionate about **Artificial Intelligence, Computer Vision, and Creative Full-Stack Engineering**. 
 
-I thrive on turning complex algorithms into real-time, interactive, and beautifully designed user experiences — ranging from edge-capable vision pipelines and custom LLMs to high-performance web platforms with 3D interactions.
+I love building real-time interactive products — from lightweight local models and edge vision systems to 3D web spaces and real-time multiplayer applications.
 
 ### 🔭 What I’m currently focused on:
-- 🧠 **Large Language Models & Edge AI:** Training, fine-tuning, and optimizing lightweight local models (like `Tejapriyan-8B`).
-- 👁️ **Computer Vision:** Real-time object detection, safety systems, and edge inference with YOLOv8 & OpenCV.
-- ⚡ **Full-Stack Engineering:** High-performance web apps built with Next.js, React, TypeScript, and Node.js.
-- 🎨 **Creative Web Design:** Crafting immersive 3D experiences with Three.js and Framer Motion.
+- 🧠 **Local LLMs & Offline AI:** Training, fine-tuning, and deploying quantized models (like `Tejapriyan-8B`).
+- 👁️ **Computer Vision:** Real-time object detection and safety enforcement with YOLOv8 & OpenCV.
+- 🎮 **Real-Time Interactive Platforms:** Building minimalist playgrounds with AI image gen, Socket.io multiplayer, and live drawing canvases.
+- 🪐 **3D Web Development:** Creating immersive Three.js scenes with Framer Motion animations.
 
 </td>
 <td width="45%" valign="top">
@@ -57,18 +57,18 @@ const tejaPriyan = {
   
   coreStack: {
     ai_ml: ["PyTorch", "YOLOv8", "OpenCV", "Ollama", "Hugging Face"],
-    web: ["Next.js", "React", "TypeScript", "Node.js", "TailwindCSS"],
+    web: ["Next.js", "React", "TypeScript", "Node.js", "Socket.io", "Three.js"],
     languages: ["Python", "JavaScript", "TypeScript", "Java", "C++", "C"]
   },
   
   passions: [
     "Offline-first AI Assistant",
     "Real-time Computer Vision",
-    "Interactive 3D Web UI"
+    "3D Web Experiences",
+    "Multiplayer Socket.io Playgrounds"
   ],
   
-  location: "India 🇮🇳",
-  hobbies: ["Exploring new AI models", "Gaming", "Creative UI coding"]
+  location: "India 🇮🇳"
 };
 ```
 
@@ -96,11 +96,13 @@ const tejaPriyan = {
   <img src="https://img.shields.io/badge/Ollama-Offline_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 </p>
 
-### 🌐 Frontend & Creative 3D
+### 🌐 Frontend & 3D Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,html,css&theme=dark&perline=7" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,threejs,tailwind,html,css&theme=dark&perline=7" alt="Frontend"/>
   <br>
+  <img src="https://img.shields.io/badge/Three.js-3D_Interactive-7c3aed?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
   <img src="https://img.shields.io/badge/Framer_Motion-Smooth_Animations-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/Socket.io-Realtime_Web-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
 </p>
 
 ### ⚙️ Backend, Databases & DevOps
@@ -112,7 +114,7 @@ const tejaPriyan = {
 
 ---
 
-## 🌟 Featured Flagship Projects
+## 🌟 Featured Projects
 
 <table>
 
@@ -147,12 +149,71 @@ An advanced AI assistant designed to run **100% locally and privately on your co
 
 <tr><td colspan="2"><br></td></tr>
 
-<!-- Project 2: Road Safety System -->
+<!-- Project 2: myself-tejapriyan Playground -->
+<tr>
+<td width="65%" valign="top">
+
+### 🎨 myself-tejapriyan — Minimalist Interactive Playground
+A minimalist, all-in-one creative web playground built with real-time interactive features:
+- 🖼️ **AI Image Generation:** Instant prompt-to-image AI sandbox.
+- 🕹️ **Socket.io Multiplayer Games:** Live, responsive browser multiplayer gameplay.
+- ✏️ **Interactive Whiteboard & Drawing Canvas:** Real-time sketch and collaborative doodle canvas.
+- 🧠 **Dynamic Quizzes:** Interactive trivia and challenge questions.
+
+🔗 **Links:**
+- 📂 **GitHub Repository:** [TejaPriyan/myself-tejapriyan](https://github.com/TejaPriyan/myself-tejapriyan)
+- 🌐 **Live Demo:** [myself-tejapriyan.onrender.com](https://myself-tejapriyan.onrender.com/)
+
+</td>
+<td width="35%" valign="top">
+
+<img src="https://img.shields.io/badge/AI-Image_Generation-00F0FF?style=flat-square" alt="AI Image Gen"/>
+<br>
+<img src="https://img.shields.io/badge/Socket.io-Multiplayer_Games-010101?style=flat-square" alt="Socket.io"/>
+<br>
+<img src="https://img.shields.io/badge/Canvas-Drawing_%26_Quizzes-FF5722?style=flat-square" alt="Canvas and Quizzes"/>
+<br>
+<img src="https://img.shields.io/badge/Render-Live-46E3B7?style=flat-square" alt="Render"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br></td></tr>
+
+<!-- Project 3: 3D Developer Portfolio -->
+<tr>
+<td width="65%" valign="top">
+
+### 🪐 3D Interactive Developer Portfolio
+A 3D developer portfolio showcasing projects and creative experiments with immersive 3D graphics and responsive animations:
+- 🌐 **Three.js 3D Scenes:** Dynamic 3D models, custom geometries, and realistic lighting.
+- ✨ **Framer Motion:** Silky smooth page transitions and micro-interactions.
+- 💎 **Modern Dark Theme:** Glassmorphic UI tailored for creative developer showcases.
+
+🔗 **Links:**
+- 📂 **GitHub Repositories:** [TejaPriyan/PORTFOLIO](https://github.com/TejaPriyan/PORTFOLIO) & [TejaPriyan/MyPortfolio](https://github.com/TejaPriyan/MyPortfolio)
+- 🌐 **Live 3D Portfolio (Vercel):** [portfolio-tau-eight-qj17e7s4zk.vercel.app](https://portfolio-tau-eight-qj17e7s4zk.vercel.app/)
+
+</td>
+<td width="35%" valign="top">
+
+<img src="https://img.shields.io/badge/Three.js-3D_Graphics-7c3aed?style=flat-square" alt="Three.js"/>
+<br>
+<img src="https://img.shields.io/badge/Framer_Motion-Animations-0055FF?style=flat-square" alt="Framer Motion"/>
+<br>
+<img src="https://img.shields.io/badge/Vercel-Hosted-000000?style=flat-square" alt="Vercel"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br></td></tr>
+
+<!-- Project 4: Road Safety System -->
 <tr>
 <td width="65%" valign="top">
 
 ### 🚦 AI-Driven Road Safety System
-Real-time deep learning computer vision pipeline that detects two-wheeler riders without helmets and recognizes license plate numbers via automatic number-plate recognition (ANPR).
+Real-time computer vision pipeline that detects two-wheeler riders without helmets and recognizes vehicle license plates via automatic number-plate recognition (ANPR).
 
 - **Tech Stack:** Python, YOLOv8, OpenCV, Deep Learning, Computer Vision
 
@@ -173,12 +234,12 @@ Real-time deep learning computer vision pipeline that detects two-wheeler riders
 
 <tr><td colspan="2"><br></td></tr>
 
-<!-- Project 3: Veltech Hotel -->
+<!-- Project 5: Veltech Hotel -->
 <tr>
 <td width="65%" valign="top">
 
 ### 🏨 Veltech Hotel Management System
-A full-stack, enterprise-grade hotel booking and management web platform covering everything from client-side room discovery to automated reservation workflows and admin dashboards.
+A full-stack hotel booking and management web platform covering room reservation workflows, customer interfaces, and administration.
 
 - **Tech Stack:** React, Node.js, Express.js, REST API, Render
 
@@ -200,12 +261,12 @@ A full-stack, enterprise-grade hotel booking and management web platform coverin
 
 <tr><td colspan="2"><br></td></tr>
 
-<!-- Project 4: Teja Game Hub -->
+<!-- Project 6: Teja Game Hub -->
 <tr>
 <td width="65%" valign="top">
 
 ### 🎮 Teja Game Hub
-An interactive web gaming platform featuring responsive browser gameplay, slick sound effects, and clean, engaging mechanics.
+An interactive web gaming platform featuring responsive browser gameplay, audio effects, and clean mechanics.
 
 - **Tech Stack:** TypeScript, JavaScript, HTML5 Canvas, CSS3, Netlify
 
@@ -227,35 +288,7 @@ An interactive web gaming platform featuring responsive browser gameplay, slick 
 
 <tr><td colspan="2"><br></td></tr>
 
-<!-- Project 5: Personal Portfolio -->
-<tr>
-<td width="65%" valign="top">
-
-### 💼 Interactive 3D Developer Portfolio
-A showcase of projects and creative coding featuring smooth page transitions, Three.js 3D elements, and modern glassmorphic aesthetics.
-
-- **Tech Stack:** React, Next.js, Three.js, Framer Motion, Tailwind CSS
-
-🔗 **Links:**
-- 📂 **GitHub Repositories:** [TejaPriyan/myself-tejapriyan](https://github.com/TejaPriyan/myself-tejapriyan) | [TejaPriyan/PORTFOLIO](https://github.com/TejaPriyan/PORTFOLIO) | [TejaPriyan/MyPortfolio](https://github.com/TejaPriyan/MyPortfolio)
-- 🌐 **Live Demo 1:** [myself-tejapriyan.onrender.com](https://myself-tejapriyan.onrender.com/)
-- 🌐 **Live Demo 2:** [portfolio-tau-eight-qj17e7s4zk.vercel.app](https://portfolio-tau-eight-qj17e7s4zk.vercel.app/)
-
-</td>
-<td width="35%" valign="top">
-
-<img src="https://img.shields.io/badge/Three.js-3D_Graphics-7c3aed?style=flat-square" alt="Three.js"/>
-<br>
-<img src="https://img.shields.io/badge/Framer_Motion-Animations-0055FF?style=flat-square" alt="Framer Motion"/>
-<br>
-<img src="https://img.shields.io/badge/Next.js-Fullstack-000000?style=flat-square" alt="Next.js"/>
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br></td></tr>
-
-<!-- Project 6: Neon Readme -->
+<!-- Project 7: Neon Readme -->
 <tr>
 <td width="65%" valign="top">
 
@@ -284,18 +317,18 @@ An open-source utility published to **npm** designed to generate high-aesthetic,
 
 ## 📁 Complete Repository Directory
 
-Here is the full directory of public repositories on my GitHub:
+Here is the full directory of all public repositories on my GitHub:
 
 | # | Repository | Category / Focus | Primary Language | Direct Link |
 |---|---|---|:---:|:---:|
 | 1 | **`tejapriyan-ai-model`** | 🤖 Local 8B AI Assistant & Web Playground | `TypeScript` / `Python` | [Open Repo ↗](https://github.com/TejaPriyan/tejapriyan-ai-model) |
-| 2 | **`AI-DRIVEN-ROAD-SAFETY...`** | 🚦 Helmet Detection & ANPR with YOLOv8 | `Python` | [Open Repo ↗](https://github.com/TejaPriyan/AI-DRIVEN-ROAD-SAFETY-SYSTEM-HELMET-DETECTION-AND-NUMBERPLATERECOGNITION-USING-YOLOV8) |
-| 3 | **`VeltechHotel`** | 🏨 Full-Stack Hotel Reservation Platform | `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/VeltechHotel) |
-| 4 | **`Gamehub`** | 🎮 Interactive Multi-Game Arcade | `TypeScript` | [Open Repo ↗](https://github.com/TejaPriyan/Gamehub) |
-| 5 | **`TejaGamehub`** | 🕹️ Arcade Game Platform | `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/TejaGamehub) |
-| 6 | **`myself-tejapriyan`** | 💼 3D Interactive Portfolio (Render) | `HTML` / `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/myself-tejapriyan) |
-| 7 | **`PORTFOLIO`** | 🌐 Modern Web Portfolio (Vercel) | `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/PORTFOLIO) |
-| 8 | **`MyPortfolio`** | 🎨 Minimalist Showcase Website | `HTML` / `CSS` | [Open Repo ↗](https://github.com/TejaPriyan/MyPortfolio) |
+| 2 | **`myself-tejapriyan`** | 🎨 Minimalist Playground: AI Image Gen, Socket.io Games, Drawing & Quizzes | `HTML` / `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/myself-tejapriyan) |
+| 3 | **`PORTFOLIO`** | 🪐 3D Interactive Developer Portfolio (Three.js & Motion) | `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/PORTFOLIO) |
+| 4 | **`MyPortfolio`** | 🎨 3D & Modern Showcase Portfolio | `HTML` / `CSS` | [Open Repo ↗](https://github.com/TejaPriyan/MyPortfolio) |
+| 5 | **`AI-DRIVEN-ROAD-SAFETY...`** | 🚦 Helmet Detection & ANPR with YOLOv8 | `Python` | [Open Repo ↗](https://github.com/TejaPriyan/AI-DRIVEN-ROAD-SAFETY-SYSTEM-HELMET-DETECTION-AND-NUMBERPLATERECOGNITION-USING-YOLOV8) |
+| 6 | **`VeltechHotel`** | 🏨 Full-Stack Hotel Reservation Platform | `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/VeltechHotel) |
+| 7 | **`Gamehub`** | 🎮 Interactive Multi-Game Arcade | `TypeScript` | [Open Repo ↗](https://github.com/TejaPriyan/Gamehub) |
+| 8 | **`TejaGamehub`** | 🕹️ Arcade Game Platform | `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/TejaGamehub) |
 | 9 | **`neon-readme`** | 📦 NPM Package for Sleek Neon Badges | `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/neon-readme) |
 | 10 | **`Task-Management-Website`**| 📋 Hackathon Task Management Portal | `HTML` / `JS` | [Open Repo ↗](https://github.com/TejaPriyan/Task-Management-Website) |
 | 11 | **`TestingAI`** | 🧪 AI Experiments, Prototypes & Benchmarks | `Python` | [Open Repo ↗](https://github.com/TejaPriyan/TestingAI) |
@@ -304,9 +337,16 @@ Here is the full directory of public repositories on my GitHub:
 
 ---
 
-## 📊 GitHub Analytics & Real-Time Stats
+## 📊 GitHub Analytics & Activity Graph
 
 <div align="center">
+
+<!-- Real-Time Activity Graph -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/00F0FF/TejaPriyan" alt="TejaPriyan GitHub Contribution Chart" width="100%"/>
+</p>
+
+<br>
 
 <!-- GitHub Stats & Top Languages Side by Side -->
 <table>
@@ -320,6 +360,8 @@ Here is the full directory of public repositories on my GitHub:
 </tr>
 </table>
 
+<br>
+
 <!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=TejaPriyan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
@@ -327,12 +369,7 @@ Here is the full directory of public repositories on my GitHub:
 
 <!-- Profile Summary Details -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejaPriyan&theme=tokyonight" width="95%" alt="Contribution Activity Graph"/>
-</p>
-
-<!-- Animated Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaPriyan&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejaPriyan&theme=tokyonight" width="95%" alt="Profile Summary Details"/>
 </p>
 
 </div>
@@ -371,8 +408,12 @@ Here is the full directory of public repositories on my GitHub:
   <img src="https://img.shields.io/badge/Tejapriyan_AI-F2A93B?style=for-the-badge&logo=openai&logoColor=black&labelColor=0d1117" alt="Tejapriyan AI"/>
 </a>
 &nbsp;
+<a href="https://portfolio-tau-eight-qj17e7s4zk.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/3D_Portfolio-06b6d4?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=0d1117" alt="3D Portfolio"/>
+</a>
+&nbsp;
 <a href="https://myself-tejapriyan.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/AI_Playground-00F0FF?style=flat-square&labelColor=0d1117" alt="AI Playground"/>
 </a>
 &nbsp;
 <a href="mailto:teja1616150@gmail.com">
