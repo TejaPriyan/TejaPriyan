@@ -130,7 +130,7 @@ An advanced AI assistant designed to run **100% locally and privately on your co
 
 🔗 **Links:**
 - 📂 **GitHub Repository:** [TejaPriyan/tejapriyan-ai-model](https://github.com/TejaPriyan/tejapriyan-ai-model)
-- 🌐 **Live Website:** [tejapriyan.vercel.app](https://tejapriyan.vercel.app/)
+- 🌐 **Live Website:** [tejapriyan-ai-model.vercel.app](https://tejapriyan-ai-model.vercel.app/)
 - 🤗 **Hugging Face Model:** [Tejapriyan-8B-GGUF](https://huggingface.co/teja161615/Tejapriyan-8B-GGUF)
 
 </td>
@@ -149,6 +149,36 @@ An advanced AI assistant designed to run **100% locally and privately on your co
 
 <tr><td colspan="2"><br></td></tr>
 
+
+<!-- Project: TejapriyanAI Intelligence Platform -->
+<tr>
+<td width="65%" valign="top">
+
+### ⚡ TejapriyanAI — Next-Gen AI Workspace & Assistant
+My multimodal AI intelligence platform and developer workspace built with Next.js, Prisma, and streaming chat to streamline engineering tasks and interactive research:
+- 💬 **Streaming Intelligence:** Ultra-low latency responses with multiple AI reasoning engines.
+- 🗄️ **Persistent Context:** Prisma database-backed conversation history and customized personas.
+- 🎨 **Modern Cyber-Glass UI:** Tailored with Tailwind CSS and full mobile responsiveness.
+
+🔗 **Links:**
+- 📂 **GitHub Repository:** [TejaPriyan/TejapriyanAI](https://github.com/TejaPriyan/TejapriyanAI)
+- 🌐 **Live Platform:** [tejapriyan-ai.vercel.app](https://tejapriyan-ai.vercel.app/)
+
+</td>
+<td width="35%" valign="top">
+
+<img src="https://img.shields.io/badge/Next.js-Full_Stack-000000?style=flat-square" alt="Next.js"/>
+<br>
+<img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square" alt="Prisma"/>
+<br>
+<img src="https://img.shields.io/badge/TypeScript-Enabled-3178C6?style=flat-square" alt="TypeScript"/>
+<br>
+<img src="https://img.shields.io/badge/Vercel-Live-000000?style=flat-square" alt="Vercel"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br></td></tr>
 <!-- Project 2: myself-tejapriyan Playground -->
 <tr>
 <td width="65%" valign="top">
@@ -192,7 +222,7 @@ A 3D developer portfolio showcasing projects and creative experiments with immer
 
 🔗 **Links:**
 - 📂 **GitHub Repositories:** [TejaPriyan/PORTFOLIO](https://github.com/TejaPriyan/PORTFOLIO) & [TejaPriyan/MyPortfolio](https://github.com/TejaPriyan/MyPortfolio)
-- 🌐 **Live 3D Portfolio (Vercel):** [portfolio-tau-eight-qj17e7s4zk.vercel.app](https://portfolio-tau-eight-qj17e7s4zk.vercel.app/)
+- 🌐 **Live 3D Portfolio (Vercel):** [portfoliotejapriyan.vercel.app](https://portfoliotejapriyan.vercel.app/)
 
 </td>
 <td width="35%" valign="top">
@@ -272,7 +302,7 @@ An interactive web gaming platform featuring responsive browser gameplay, audio 
 
 🔗 **Links:**
 - 📂 **GitHub Repositories:** [TejaPriyan/Gamehub](https://github.com/TejaPriyan/Gamehub) & [TejaPriyan/TejaGamehub](https://github.com/TejaPriyan/TejaGamehub)
-- 🌐 **Live Demo:** [tejagamehub.netlify.app](https://tejagamehub.netlify.app/)
+- 🌐 **Live Demo:** [tejapriyan.github.io/TejaGamehub](https://tejapriyan.github.io/TejaGamehub/)
 
 </td>
 <td width="35%" valign="top">
@@ -404,11 +434,11 @@ Here is the full directory of all public repositories on my GitHub:
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://tejapriyan.vercel.app/" target="_blank">
+<a href="https://tejapriyan-ai-model.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Tejapriyan_AI-F2A93B?style=for-the-badge&logo=openai&logoColor=black&labelColor=0d1117" alt="Tejapriyan AI"/>
 </a>
 &nbsp;
-<a href="https://portfolio-tau-eight-qj17e7s4zk.vercel.app/" target="_blank">
+<a href="https://portfoliotejapriyan.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/3D_Portfolio-06b6d4?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=0d1117" alt="3D Portfolio"/>
 </a>
 &nbsp;
