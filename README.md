@@ -302,14 +302,14 @@ An interactive web gaming platform featuring responsive browser gameplay, audio 
 
 🔗 **Links:**
 - 📂 **GitHub Repositories:** [TejaPriyan/Gamehub](https://github.com/TejaPriyan/Gamehub) & [TejaPriyan/TejaGamehub](https://github.com/TejaPriyan/TejaGamehub)
-- 🌐 **Live Demo:** [tejapriyan.github.io/TejaGamehub](https://tejapriyan.github.io/TejaGamehub/)
+- 🌐 **Live Demo:** [tejagamehub.vercel.app](https://tejagamehub.vercel.app/) & [GitHub Pages](https://tejapriyan.github.io/TejaGamehub/)
 
 </td>
 <td width="35%" valign="top">
 
 <img src="https://img.shields.io/badge/TypeScript-Enabled-3178C6?style=flat-square" alt="TypeScript"/>
 <br>
-<img src="https://img.shields.io/badge/Netlify-Hosted-00C7B7?style=flat-square" alt="Netlify"/>
+<img src="https://img.shields.io/badge/Vercel-Hosted-000000?style=flat-square&logo=vercel" alt="Vercel"/>
 <br>
 <img src="https://img.shields.io/badge/Web_Games-Interactive-F7DF1E?style=flat-square" alt="Web Games"/>
 
@@ -347,23 +347,24 @@ An open-source utility published to **npm** designed to generate high-aesthetic,
 
 ## 📁 Complete Repository Directory
 
-Here is the full directory of all public repositories on my GitHub:
+Here is the full directory of all 14 public repositories on my GitHub:
 
 | # | Repository | Category / Focus | Primary Language | Direct Link |
 |---|---|---|:---:|:---:|
 | 1 | **`tejapriyan-ai-model`** | 🤖 Local 8B AI Assistant & Web Playground | `TypeScript` / `Python` | [Open Repo ↗](https://github.com/TejaPriyan/tejapriyan-ai-model) |
-| 2 | **`myself-tejapriyan`** | 🎨 Minimalist Playground: AI Image Gen, Socket.io Games, Drawing & Quizzes | `HTML` / `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/myself-tejapriyan) |
-| 3 | **`PORTFOLIO`** | 🪐 3D Interactive Developer Portfolio (Three.js & Motion) | `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/PORTFOLIO) |
-| 4 | **`MyPortfolio`** | 🎨 3D & Modern Showcase Portfolio | `HTML` / `CSS` | [Open Repo ↗](https://github.com/TejaPriyan/MyPortfolio) |
-| 5 | **`AI-DRIVEN-ROAD-SAFETY...`** | 🚦 Helmet Detection & ANPR with YOLOv8 | `Python` | [Open Repo ↗](https://github.com/TejaPriyan/AI-DRIVEN-ROAD-SAFETY-SYSTEM-HELMET-DETECTION-AND-NUMBERPLATERECOGNITION-USING-YOLOV8) |
-| 6 | **`VeltechHotel`** | 🏨 Full-Stack Hotel Reservation Platform | `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/VeltechHotel) |
-| 7 | **`Gamehub`** | 🎮 Interactive Multi-Game Arcade | `TypeScript` | [Open Repo ↗](https://github.com/TejaPriyan/Gamehub) |
-| 8 | **`TejaGamehub`** | 🕹️ Arcade Game Platform | `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/TejaGamehub) |
-| 9 | **`neon-readme`** | 📦 NPM Package for Sleek Neon Badges | `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/neon-readme) |
-| 10 | **`Task-Management-Website`**| 📋 Hackathon Task Management Portal | `HTML` / `JS` | [Open Repo ↗](https://github.com/TejaPriyan/Task-Management-Website) |
-| 11 | **`TestingAI`** | 🧪 AI Experiments, Prototypes & Benchmarks | `Python` | [Open Repo ↗](https://github.com/TejaPriyan/TestingAI) |
-| 12 | **`desktop-tutorial`** | 📖 GitHub Desktop Workflow Walkthrough | `Markdown` | [Open Repo ↗](https://github.com/TejaPriyan/desktop-tutorial) |
-| 13 | **`TejaPriyan`** | 🌟 Special Profile Configuration & Dynamic README | `Markdown` | [Open Repo ↗](https://github.com/TejaPriyan/TejaPriyan) |
+| 2 | **`TejapriyanAI`** | 🧠 Multimodal AI Platform & Developer Workspace | `TypeScript` / `Next.js` | [Open Repo ↗](https://github.com/TejaPriyan/TejapriyanAI) |
+| 3 | **`myself-tejapriyan`** | 🎨 3D Digital Sanctuary: AI Image Gen, Socket.io Games, Interactive Canvas | `HTML` / `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/myself-tejapriyan) |
+| 4 | **`PORTFOLIO`** | 🪐 Flagship 3D Developer Portfolio (Three.js & Motion) | `JavaScript` / `Next.js` | [Open Repo ↗](https://github.com/TejaPriyan/PORTFOLIO) |
+| 5 | **`MyPortfolio`** | 🎨 Cyber-Glass Developer Portfolio Showcase | `HTML` / `CSS` | [Open Repo ↗](https://github.com/TejaPriyan/MyPortfolio) |
+| 6 | **`AI-DRIVEN-ROAD-SAFETY...`** | 🚦 Real-Time Helmet Detection & ANPR with YOLOv8 | `Python` / `PyTorch` | [Open Repo ↗](https://github.com/TejaPriyan/AI-DRIVEN-ROAD-SAFETY-SYSTEM-HELMET-DETECTION-AND-NUMBERPLATERECOGNITION-USING-YOLOV8) |
+| 7 | **`VeltechHotel`** | 🏨 Full-Stack Luxury Hotel Reservation Platform | `JavaScript` / `Node.js` | [Open Repo ↗](https://github.com/TejaPriyan/VeltechHotel) |
+| 8 | **`Task-Management-Website`**| 📋 Modern Hackathon Task Management Board (TaskY) | `HTML` / `JavaScript` | [Open Repo ↗](https://github.com/TejaPriyan/Task-Management-Website) |
+| 9 | **`TejaGamehub`** | 🕹️ Cyberpunk Retro Arcade & Browser Mini-Games | `JavaScript` / `HTML5 Canvas` | [Open Repo ↗](https://github.com/TejaPriyan/TejaGamehub) |
+| 10 | **`Gamehub`** | 🎮 Cyberpunk Gaming World & Custom Player Cards | `Astro` / `TypeScript` | [Open Repo ↗](https://github.com/TejaPriyan/Gamehub) |
+| 11 | **`neon-readme`** | 📦 NPM Package CLI for Cyber-Neon Badges | `JavaScript` / `Node.js` | [Open Repo ↗](https://github.com/TejaPriyan/neon-readme) |
+| 12 | **`TestingAI`** | 🧪 AI Experiments, Model Benchmarks & Synthetic Pipelines | `Python` | [Open Repo ↗](https://github.com/TejaPriyan/TestingAI) |
+| 13 | **`desktop-tutorial`** | 📖 GitHub Desktop Workflow Walkthrough | `Markdown` | [Open Repo ↗](https://github.com/TejaPriyan/desktop-tutorial) |
+| 14 | **`TejaPriyan`** | 🌟 Special Profile Configuration & Dynamic README | `Markdown` / `Config` | [Open Repo ↗](https://github.com/TejaPriyan/TejaPriyan) |
 
 ---
 
