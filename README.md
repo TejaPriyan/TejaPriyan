@@ -32,6 +32,10 @@
 <a href="https://portfoliotejapriyan.vercel.app/">
   <img src="https://img.shields.io/badge/3D%20Portfolio-Live-F2A93B?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
 </a>
+&nbsp;
+<a href="https://www.buymeacoffee.com/TejaPriyan" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Pizza-🍕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0d1117" alt="Buy Me A Pizza"/>
+</a>
 
 </div>
 
@@ -509,6 +513,10 @@ Here is the complete directory of all **25 public repositories** across Artifici
 &nbsp;
 <a href="mailto:teja1616150@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://www.buymeacoffee.com/TejaPriyan" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Pizza-🍕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0d1117" alt="Buy Me A Pizza"/>
 </a>
 
 </div>
