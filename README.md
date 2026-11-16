@@ -6,7 +6,7 @@
 <br>
 
 <!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/TejaPriyan">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=760&lines=Creator+of+Trace+%E2%80%94+The+X-ray+for+the+Web;Architect+of+MotionLab+%E2%80%94+Kinetic+Physics+%26+Typography;Fine-Tuner+of+Tejapriyan-8B+Offline+AI+Model+(GRPO+RL);Full-Stack+Architect+%E2%80%A2+WebGL+3D+%26+Creative+Engineering;Real-Time+Computer+Vision+%26+YOLOv8+Safety+Pipelines" alt="Typing SVG" />
 </a>
 
@@ -22,7 +22,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/TejaPriyan?tab=repositories">
-  <img src="https://img.shields.io/badge/PUBLIC%20REPOS-25-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/PUBLIC%20REPOS-40-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/tejapriyan/">
@@ -256,7 +256,7 @@ An immersive interactive digital universe combining biomedical 3D inspection, cy
 
 🔗 **Links:**
 - 📂 **GitHub Repository:** [TejaPriyan/myself-tejapriyan](https://github.com/TejaPriyan/myself-tejapriyan)
-- 🌐 **Live Web App:** [myself-tejapriyan.onrender.com](https://myself-tejapriyan.onrender.com/)
+- 🌐 **Live Web App:** [tejapriyan.github.io/myself-tejapriyan](https://tejapriyan.github.io/myself-tejapriyan/)
 
 </td>
 <td width="35%" valign="top">
@@ -321,7 +321,7 @@ A collection of boundary-pushing interactive web experiences exploring shader gl
 
 🔗 **Links:**
 - 👾 **GlitchRoom:** [Live Demo](https://glitchroom.vercel.app) • [GitHub Repo](https://github.com/TejaPriyan/GlitchRoom)
-- 🏃 **The Website That Hides From You:** [Live Demo](https://the-website-that-hides-from-you.vercel.app) • [GitHub Repo](https://github.com/TejaPriyan/the-website-that-hides-from-you)
+- 🏃 **The Website That Hides From You:** [Live Demo](https://websitethathidesfromyou.vercel.app/) • [GitHub Repo](https://github.com/TejaPriyan/the-website-that-hides-from-you)
 
 </td>
 <td width="35%" valign="top">
@@ -400,35 +400,50 @@ An immersive 3D personal universe featuring interactive WebGL geometries, fluid 
 
 ## 📂 Complete Public Repository Directory
 
-Here is the complete directory of all **25 public repositories** across Artificial Intelligence, Web Platforms, Creative Physics, and Open-Source Tools:
+Here is the complete directory of all **40 public repositories** across Artificial Intelligence, Web Platforms, Creative Physics, Interactive Games, and Open-Source Tools:
 
 | # | Repository | Category / Domain | Primary Tech | Direct Links |
 |:---:|---|---|:---:|:---:|
-| 1 | **[`Trace`](https://github.com/TejaPriyan/Trace)** | 🔍 Website Intelligence, Crawler & Security Auditor | `TypeScript` / `Next.js 15` | [Repo](https://github.com/TejaPriyan/Trace) • [Live Demo](https://tracewebsite.vercel.app) |
+| 1 | **[`Trace`](https://github.com/TejaPriyan/Trace)** | 🔍 Website Intelligence, Crawler & Security Auditor | `TypeScript` / `Next.js` | [Repo](https://github.com/TejaPriyan/Trace) • [Live Demo](https://tracewebsite.vercel.app) |
 | 2 | **[`MotionLab`](https://github.com/TejaPriyan/MotionLab)** | ⚡ Kinetic Typography & Matter.js Physics Studio | `JavaScript` / `Matter.js` | [Repo](https://github.com/TejaPriyan/MotionLab) • [Live Demo](https://motionlab1.vercel.app/) |
-| 3 | **[`tejapriyan-ai-model`](https://github.com/TejaPriyan/tejapriyan-ai-model)** | 🧠 Quantized 8B Offline AI Model (GRPO RL) & SQL Sandbox | `TypeScript` / `Python` | [Repo](https://github.com/TejaPriyan/tejapriyan-ai-model) • [Live Demo](https://tejapriyan-ai-model.vercel.app) |
-| 4 | **[`myself-tejapriyan`](https://github.com/TejaPriyan/myself-tejapriyan)** | 🏛️ 3D Digital Sanctuary, Ami AI & Neuroanatomy Simulation | `JavaScript` / `Three.js` | [Repo](https://github.com/TejaPriyan/myself-tejapriyan) • [Live Demo](https://myself-tejapriyan.onrender.com/) |
-| 5 | **[`TejapriyanAI`](https://github.com/TejaPriyan/TejapriyanAI)** | ⚡ Multimodal AI Intelligence & Engineering Workspace | `TypeScript` / `Next.js` | [Repo](https://github.com/TejaPriyan/TejapriyanAI) • [Live Demo](https://tejapriyan-ai.vercel.app) |
+| 3 | **[`tejapriyan-ai-model`](https://github.com/TejaPriyan/tejapriyan-ai-model)** | 🧠 Offline Browser & CLI Studio for `Tejapriyan-8B` | `TypeScript` / `React` | [Repo](https://github.com/TejaPriyan/tejapriyan-ai-model) • [Live Demo](https://tejapriyan-ai-model.vercel.app) |
+| 4 | **[`myself-tejapriyan`](https://github.com/TejaPriyan/myself-tejapriyan)** | 🏛️ 3D Digital Sanctuary, Ami AI & Neuroanatomy Simulation | `JavaScript` / `Three.js` | [Repo](https://github.com/TejaPriyan/myself-tejapriyan) • [Live Demo](https://tejapriyan.github.io/myself-tejapriyan/) |
+| 5 | **[`TejapriyanAI`](https://github.com/TejaPriyan/TejapriyanAI)** | ⚡ Multimodal AI Chat, Workspace & Streaming Studio | `TypeScript` / `Next.js` | [Repo](https://github.com/TejaPriyan/TejapriyanAI) • [Live Demo](https://tejapriyan-ai.vercel.app) |
 | 6 | **[`VeltechHotel`](https://github.com/TejaPriyan/VeltechHotel)** | 🏨 Luxury Hotel Reservation & Management System (JWT/RBAC) | `Node.js` / `SQLite` | [Repo](https://github.com/TejaPriyan/VeltechHotel) • [Live Demo](https://veltechhotel.onrender.com/) |
 | 7 | **[`GlitchRoom`](https://github.com/TejaPriyan/GlitchRoom)** | 👾 Horror-Puzzle Glitch Escape Room Web Experience | `HTML` / `JavaScript` | [Repo](https://github.com/TejaPriyan/GlitchRoom) • [Live Demo](https://glitchroom.vercel.app) |
-| 8 | **[`the-website-that-hides-from-you`](https://github.com/TejaPriyan/the-website-that-hides-from-you)** | 🏃 Predictive Physics Evasive UI Experiment | `HTML` / `CSS` | [Repo](https://github.com/TejaPriyan/the-website-that-hides-from-you) • [Live Demo](https://the-website-that-hides-from-you.vercel.app) |
+| 8 | **[`the-website-that-hides-from-you`](https://github.com/TejaPriyan/the-website-that-hides-from-you)** | 🏃 Predictive Physics Evasive UI Experiment | `HTML` / `JavaScript` | [Repo](https://github.com/TejaPriyan/the-website-that-hides-from-you) • [Live Demo](https://websitethathidesfromyou.vercel.app/) |
 | 9 | **[`AI-DRIVEN-ROAD-SAFETY...`](https://github.com/TejaPriyan/AI-DRIVEN-ROAD-SAFETY-SYSTEM-HELMET-DETECTION-AND-NUMBERPLATERECOGNITION-USING-YOLOV8)** | 🛡️ Real-Time Helmet Detection & ANPR Vehicle System | `Python` / `YOLOv8` | [Repo](https://github.com/TejaPriyan/AI-DRIVEN-ROAD-SAFETY-SYSTEM-HELMET-DETECTION-AND-NUMBERPLATERECOGNITION-USING-YOLOV8) |
 | 10 | **[`PORTFOLIO`](https://github.com/TejaPriyan/PORTFOLIO)** | 🌐 Flagship 3D Developer Portfolio Universe | `Next.js` / `Three.js` | [Repo](https://github.com/TejaPriyan/PORTFOLIO) • [Live Demo](https://portfoliotejapriyan.vercel.app/) |
-| 11 | **[`MyPortfolio`](https://github.com/TejaPriyan/MyPortfolio)** | 🎨 Cyber-Glass Portfolio & Project Showcase | `HTML` / `CSS` | [Repo](https://github.com/TejaPriyan/MyPortfolio) • [Live Demo](https://tejapriyan-portfolio.vercel.app/) |
-| 12 | **[`Teja-Ai-Assistant`](https://github.com/TejaPriyan/Teja-Ai-Assistant)** | 🎙️ Voice & Chat Intelligent Personal Assistant | `TypeScript` / `Python` | [Repo](https://github.com/TejaPriyan/Teja-Ai-Assistant) • [Live Demo](https://tejaassistant.vercel.app) |
-| 13 | **[`TejaX`](https://github.com/TejaPriyan/TejaX)** | ⚡ Modern Web Application & Experimental Platform | `TypeScript` | [Repo](https://github.com/TejaPriyan/TejaX) • [Live Demo](https://tejax.vercel.app) |
-| 14 | **[`Popsel`](https://github.com/TejaPriyan/Popsel)** | 💫 Interactive Web UI & Micro-Interaction Component | `JavaScript` | [Repo](https://github.com/TejaPriyan/Popsel) • [Live Demo](https://popsel.vercel.app) |
-| 15 | **[`Nexora`](https://github.com/TejaPriyan/Nexora)** | 🤖 Modular Python AI Runtime Framework (Ghost/Vision/Memory) | `Python` | [Repo](https://github.com/TejaPriyan/Nexora) |
+| 11 | **[`MyPortfolio`](https://github.com/TejaPriyan/MyPortfolio)** | 🎨 Cyber-Glass Portfolio & Project Showcase | `HTML` / `Tailwind CSS` | [Repo](https://github.com/TejaPriyan/MyPortfolio) • [Live Demo](https://tejapriyan-portfolio.vercel.app/) |
+| 12 | **[`Teja-Ai-Assistant`](https://github.com/TejaPriyan/Teja-Ai-Assistant)** | 🎙️ Voice & Chat Intelligent Personal Assistant | `TypeScript` / `Next.js` | [Repo](https://github.com/TejaPriyan/Teja-Ai-Assistant) • [Live Demo](https://tejaassistant.vercel.app) |
+| 13 | **[`TejaX`](https://github.com/TejaPriyan/TejaX)** | ⚡ Multi-Agent Pixel Lab & AI Simulation Platform | `TypeScript` / `Python` | [Repo](https://github.com/TejaPriyan/TejaX) • [Live Demo](https://tejax.vercel.app) |
+| 14 | **[`Popsel`](https://github.com/TejaPriyan/Popsel)** | 🫧 Pixel Reveal Studio with 60 FPS Video & GIF Export | `HTML5 Canvas` / `JS` | [Repo](https://github.com/TejaPriyan/Popsel) • [Live Demo](https://popsel.vercel.app) |
+| 15 | **[`Nexora`](https://github.com/TejaPriyan/Nexora)** | 🤖 Modular Python AI Runtime & Sandbox Framework | `Python` | [Repo](https://github.com/TejaPriyan/Nexora) |
 | 16 | **[`Sureband`](https://github.com/TejaPriyan/Sureband)** | 📊 Distribution-Free Statistical Coverage Guarantees | `Python` | [Repo](https://github.com/TejaPriyan/Sureband) |
-| 17 | **[`TestingAI`](https://github.com/TejaPriyan/TestingAI)** | 🧪 Synthetic Data Pipelines, Model Benchmarks & Prompts | `Python` | [Repo](https://github.com/TejaPriyan/TestingAI) |
-| 18 | **[`Gamehub`](https://github.com/TejaPriyan/Gamehub)** | 🎮 Cyberpunk Gaming World & Custom Player Cards | `TypeScript` / `Astro` | [Repo](https://github.com/TejaPriyan/Gamehub) • [Live Demo](https://tejapriyan.github.io/Gamehub/) |
-| 19 | **[`TejaGamehub`](https://github.com/TejaPriyan/TejaGamehub)** | 🕹️ Retro Arcade Arena & Canvas Browser Mini-Games | `HTML5 Canvas` / `JS` | [Repo](https://github.com/TejaPriyan/TejaGamehub) • [Live Demo](https://tejapriyan.github.io/TejaGamehub/) |
-| 20 | **[`Task-Management-Website`](https://github.com/TejaPriyan/Task-Management-Website)** | 📋 Hackathon Productivity Board (TaskY) | `JavaScript` / `HTML` | [Repo](https://github.com/TejaPriyan/Task-Management-Website) • [Live Demo](https://tejapriyan.github.io/Task-Management-Website/) |
-| 21 | **[`neon-readme`](https://github.com/TejaPriyan/neon-readme)** | 📦 Published NPM CLI Utility for Cyber-Neon Profile Badges | `Node.js` / `NPM` | [Repo](https://github.com/TejaPriyan/neon-readme) • [NPM Package](https://www.npmjs.com/package/neon-readme) |
-| 22 | **[`Showreel`](https://github.com/TejaPriyan/Showreel)** | 🎬 Cinematic Developer Showreel Showcase | `JavaScript` | [Repo](https://github.com/TejaPriyan/Showreel) |
-| 23 | **[`Typecraft`](https://github.com/TejaPriyan/Typecraft)** | ⌨️ Interactive Typing & Crafting Web Application | `JavaScript` | [Repo](https://github.com/TejaPriyan/Typecraft) |
-| 24 | **[`desktop-tutorial`](https://github.com/TejaPriyan/desktop-tutorial)** | 📖 GitHub Desktop Workflow Walkthrough Reference | `Markdown` | [Repo](https://github.com/TejaPriyan/desktop-tutorial) |
-| 25 | **[`TejaPriyan`](https://github.com/TejaPriyan/TejaPriyan)** | ⚙️ Special Profile Repository & Automated Snake Workflow | `Markdown` / `YAML` | [Repo](https://github.com/TejaPriyan/TejaPriyan) |
+| 17 | **[`Gamehub`](https://github.com/TejaPriyan/Gamehub)** | 🎮 Cyberpunk Gaming World & Custom Player Cards | `TypeScript` / `Astro` | [Repo](https://github.com/TejaPriyan/Gamehub) • [Live Demo](https://tejapriyan.github.io/Gamehub/) |
+| 18 | **[`TejaGamehub`](https://github.com/TejaPriyan/TejaGamehub)** | 🕹️ 15 Cyberpunk Arcade Games & 3D Wave Arena | `HTML5 Canvas` / `JS` | [Repo](https://github.com/TejaPriyan/TejaGamehub) • [Live Demo](https://tejapriyan.github.io/TejaGamehub/) |
+| 19 | **[`Task-Management-Website`](https://github.com/TejaPriyan/Task-Management-Website)** | 📋 Hackathon Productivity Board (TaskY) | `JavaScript` / `HTML` | [Repo](https://github.com/TejaPriyan/Task-Management-Website) • [Live Demo](https://tejapriyan.github.io/Task-Management-Website/) |
+| 20 | **[`neon-readme`](https://github.com/TejaPriyan/neon-readme)** | 📦 Published NPM CLI Utility for Cyber-Neon Profile Badges | `JavaScript` / `NPM` | [Repo](https://github.com/TejaPriyan/neon-readme) • [Live Demo](https://tejapriyan.github.io/neon-readme/) • [NPM](https://www.npmjs.com/package/neon-readme) |
+| 21 | **[`Showreel`](https://github.com/TejaPriyan/Showreel)** | 🎬 Interactive Developer Showreel & Video Reel Exporter | `JavaScript` / `Three.js` | [Repo](https://github.com/TejaPriyan/Showreel) • [Live Demo](https://tejapriyan.github.io/Showreel/) |
+| 22 | **[`Typecraft`](https://github.com/TejaPriyan/Typecraft)** | ⌨️ 3D Kinetic Typography & WebGL Motion Studio | `HTML5` / `Three.js` | [Repo](https://github.com/TejaPriyan/Typecraft) • [Live Demo](https://typecraft1.vercel.app/) |
+| 23 | **[`AudioVault`](https://github.com/TejaPriyan/AudioVault)** | 🔊 Zero-Knowledge Audio Steganography & AES-256-GCM Studio | `HTML` / `TypeScript` | [Repo](https://github.com/TejaPriyan/AudioVault) • [Live Demo](https://tejapriyan.github.io/AudioVault/) |
+| 24 | **[`StegoReveal`](https://github.com/TejaPriyan/StegoReveal)** | 🔍 Zero-Knowledge Steganography Message Extractor & Decryptor | `HTML` / `Web Crypto` | [Repo](https://github.com/TejaPriyan/StegoReveal) • [Live Demo](https://stegoreveal.vercel.app) |
+| 25 | **[`StegoShare`](https://github.com/TejaPriyan/StegoShare)** | 🔐 Client-Side Image Steganography Encoder & Password Protection | `HTML` / `TypeScript` | [Repo](https://github.com/TejaPriyan/StegoShare) • [Live Demo](https://stegoshare-six.vercel.app) |
+| 26 | **[`Hopkey`](https://github.com/TejaPriyan/Hopkey)** | ⚡ Peer-to-Peer WebRTC & Animated Fountain-QR File Transfer | `TypeScript` / `React` | [Repo](https://github.com/TejaPriyan/Hopkey) • [Live Demo](https://hopkey.vercel.app) |
+| 27 | **[`TEJAX-Kart`](https://github.com/TejaPriyan/TEJAX-Kart)** | 🏎️ 3D Browser Kart Racing Game & LAN Multiplayer Server | `HTML` / `Three.js` | [Repo](https://github.com/TejaPriyan/TEJAX-Kart) • [Live Demo](https://tejax-kart.vercel.app) |
+| 28 | **[`REACT`](https://github.com/TejaPriyan/REACT)** | 🎵 Reactive Audio Visualizer & Canvas Studio Exporter | `HTML5 Canvas` / `JS` | [Repo](https://github.com/TejaPriyan/REACT) • [Live Demo](https://reactsound.vercel.app/) |
+| 29 | **[`Reality-Engine`](https://github.com/TejaPriyan/Reality-Engine)** | 🌍 Offline-First Interactive World Simulation Engine | `HTML` / `Python` | [Repo](https://github.com/TejaPriyan/Reality-Engine) • [Live Demo](https://tejapriyan.github.io/Reality-Engine/) |
+| 30 | **[`Veltra-Track`](https://github.com/TejaPriyan/Veltra-Track)** | 📊 Personal Analytics & Habit Tracking PWA | `HTML` / `Service Worker` | [Repo](https://github.com/TejaPriyan/Veltra-Track) • [Live Demo](https://veltratrack.vercel.app/) |
+| 31 | **[`My-Little-Pet`](https://github.com/TejaPriyan/My-Little-Pet)** | 🐾 Desktop Companion Application & Official Download Portal | `Python` / `Pygame` | [Repo](https://github.com/TejaPriyan/My-Little-Pet) • [Website](https://tejapriyan.github.io/My-Little-Pet/) |
+| 32 | **[`TejaPriyan-House`](https://github.com/TejaPriyan/TejaPriyan-House)** | 🏠 Interactive 3D House Tour & Portfolio World | `JavaScript` / `Three.js` | [Repo](https://github.com/TejaPriyan/TejaPriyan-House) • [Live Demo](https://tejapriyan.github.io/TejaPriyan-House) |
+| 33 | **[`Teja-Imapct`](https://github.com/TejaPriyan/Teja-Imapct)** | 🎮 3D Action RPG WebGL Game Portal & Unity Build | `C#` / `Unity WebGL` | [Repo](https://github.com/TejaPriyan/Teja-Imapct) • [Play WebGL](https://tejapriyan.github.io/Teja-Imapct/) |
+| 34 | **[`FLUFFY`](https://github.com/TejaPriyan/FLUFFY)** | 🌸 Interactive Cozy Web Experience | `HTML` / `JavaScript` | [Repo](https://github.com/TejaPriyan/FLUFFY) • [Live Demo](https://tejapriyan.github.io/FLUFFY/) |
+| 35 | **[`PORTAL`](https://github.com/TejaPriyan/PORTAL)** | 🌀 Interactive Portal Web Experience | `HTML` / `CSS` | [Repo](https://github.com/TejaPriyan/PORTAL) |
+| 36 | **[`TerminalPet`](https://github.com/TejaPriyan/TerminalPet)** | 🐢 Terminal Virtual Pet CLI Companion | `Python` | [Repo](https://github.com/TejaPriyan/TerminalPet) |
+| 37 | **[`TejaPriyan`](https://github.com/TejaPriyan/TejaPriyan)** | ⚙️ GitHub Profile Repository & Automated Snake Workflow | `Markdown` / `YAML` | [Repo](https://github.com/TejaPriyan/TejaPriyan) |
+| 38 | **[`TestingAI`](https://github.com/TejaPriyan/TestingAI)** | 🧪 Placeholder Repository | `—` | [Repo](https://github.com/TejaPriyan/TestingAI) |
+| 39 | **[`VYRON`](https://github.com/TejaPriyan/VYRON)** | 🚧 Placeholder Repository | `—` | [Repo](https://github.com/TejaPriyan/VYRON) |
+| 40 | **[`desktop-tutorial`](https://github.com/TejaPriyan/desktop-tutorial)** | 📖 GitHub Desktop Starter Sandbox Repository | `Markdown` | [Repo](https://github.com/TejaPriyan/desktop-tutorial) |
 
 ---
 
